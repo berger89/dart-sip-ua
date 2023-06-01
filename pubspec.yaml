@@ -12,7 +12,7 @@ dependencies:
   flutter_webrtc:
     git:
       url: https://github.com/berger89/flutter-webrtc
-      ref: main
+      ref: fix/audio
   intl: ^0.18.0
   logger: ^1.0.0
   parser_error: ^0.2.0

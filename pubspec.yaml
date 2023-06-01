@@ -11,7 +11,7 @@ dependencies:
   crypto: ^3.0.0
   flutter_webrtc:
     git:
-      url: https://github.com/berger89/flutter-webrtc/tree/fix/audio
+      url: https://github.com/berger89/flutter-webrtc
       ref: main
   intl: ^0.18.0
   logger: ^1.0.0
